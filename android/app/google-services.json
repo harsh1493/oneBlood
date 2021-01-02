@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1081756457652",
+    "firebase_url": "https://oneblood-d3ebc.firebaseio.com",
+    "project_id": "oneblood-d3ebc",
+    "storage_bucket": "oneblood-d3ebc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081756457652:android:7ba36286d42cb68be615e1",
+        "android_client_info": {
+          "package_name": "co.harshrivastava.one_blood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081756457652-0ohegdqgt1l8sc2992fr2np8kldldgjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.harshrivastava.one_blood",
+            "certificate_hash": "08f4b8ffd64b476d27208e41830dbde945af8358"
+          }
+        },
+        {
+          "client_id": "1081756457652-6jfoubv347o5cp75k9h92bpoftqgu8n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3loRNbm7kQ7xDxyLKTUE7SLzGyDv8gSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081756457652-6jfoubv347o5cp75k9h92bpoftqgu8n1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
